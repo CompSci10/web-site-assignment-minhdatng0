@@ -10,5 +10,5 @@ In this assignment you will be creating a responsive web site hosted on GitHub. 
 
 5. Unzip the downloaded file. The unzipped file contains three folders '''css''', '''fonts''', and '''js'''. Add all three folders (and their contents to your new GitHub repository. You can add them by either uploading the folders directly through the browser or adding them to your cloned repository on your computer.
 
-6. Go to '''http://getbootstrap.com/getting-started/#template''', copy the HTML code for the Basic template and add it to a file named '''index.html''. Save the file to your new repository. Your GitHub repository should now look this way.
+6. Go to '''http://getbootstrap.com/getting-started/#template''', copy the HTML code for the Basic template and add it to a file named '''index.html'''. Save the file to your new repository. Your GitHub repository should now look this way.
 ![](image-github.png)
