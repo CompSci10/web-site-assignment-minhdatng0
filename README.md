@@ -17,7 +17,7 @@ To set up a Bootstrap web page template follow the steps below.
 
 5. Unzip the downloaded file. The unzipped file contains three folders ```css```, ```fonts```, and ```js```. Add all three folders (and their contents to your new GitHub repository. You can add them by either uploading the folders directly through the browser or adding them to your cloned repository on your computer and sync/push to GitHub.
 
-6. Go to ```http://getbootstrap.com/getting-started/#template```, copy the HTML code for the Basic template and add it to a file named ```index.html```. Save the file to your new repository. Your GitHub repository should now look this way.
+6. Go to http://getbootstrap.com/getting-started/#template, copy the HTML code for the Basic template and add it to a file named ```index.html```. Save the file to your new repository. Your GitHub repository should now look like this.
 ![](image-github.png)
 
 7. Your "web page" is now live (although there is not much on it yet). The URL for your web page is ```https://tony-stark-cs.github.io/index.html``` (where you replace ```tony-stark-cs``` with your own GitHub user name. Every time you update your webpage and commit (and sync/push if you work locally) the changes will be refelected on this web page (note that there may be a slight delay before the changes appear).
