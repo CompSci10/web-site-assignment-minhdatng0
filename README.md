@@ -44,6 +44,6 @@ Your website will be featuring a musician or music group of your choice and will
  To get a mark of >50% your site has to include all of the above + the following components:
  * Up to 60% - All of the above + modifications of the CSS style sheet (in the ```css`` folder), e.g. background color, link color, font, page dimensions etc.
  * Up to 70% - All of the above + [three column grid formatting](http://getbootstrap.com/css/#grid)
- * Up to 80% - [Navbar](http://getbootstrap.com/components/#navbar) with appropriate links (e.g. to subpages)
+ * Up to 80% - All of the above + [Navbar](http://getbootstrap.com/components/#navbar) with appropriate links (e.g. to subpages)
  * Up to 90% - All of the above + a [carousel with images](http://getbootstrap.com/javascript/#carousel).
  * Up to 100% - All of the above + three levels of responsiveness, large screen (e.g. computer monitor), medium screen (e.g. tablet) and small screen (e.g. cell phone).
