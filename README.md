@@ -26,9 +26,7 @@ To set up a Bootstrap web page template follow the steps below.
 ## Creating a web page
 Now that you have your basic template for a web page set up you will add contents to it and format it using the Bootstrap framweork. For this part of the assignment you are required to do extensive online research. The main [Bootstrap web site](http://getbootstrap.com/) is a good starting point for information on the capabilities of the framwork and for code examples.
 
-To the second step of this assignment follow the steps below.
-
-1. Your website will be featuring a musician or music group of your choice and will consist of the following seperate web pages:
+Your website will be featuring a musician or music group of your choice and will consist of the following seperate web pages:
  * ```index.html``` - landing page that will introduce the musician/group and link to the other pages.
  * ```history.html``` - subpage that will provide a brief professional history of the musician/group.
  * ```discography.html``` - a subpage listing all (or selected) albums.
@@ -43,3 +41,9 @@ To the second step of this assignment follow the steps below.
   * The head-section of all the pages have to be properly formated, e.g. include the ```<title>``` tag giving the page title e.g. ```<title>Pink Floyd by Dr. P</title>```.
   * Web page has to be attractive and properly formatted (for this assignment - looks matter!).
  
+ To get a mark of >50% your site has to include all of the above + the following components:
+ * Up to 60% - All of the above + modifications of the CSS style sheet (in the ```css`` folder), e.g. background color, link color, font, page dimensions etc.
+ * Up to 70% - All of the above + [three column grid formatting](http://getbootstrap.com/css/#grid)
+ * Up to 80% - [Navbar](http://getbootstrap.com/components/#navbar) with appropriate links (e.g. to subpages)
+ * Up to 90% - All of the above + a [carousel with images](http://getbootstrap.com/javascript/#carousel).
+ * Up to 100% - All of the above + three levels of responsiveness, large screen (e.g. computer monitor), medium screen (e.g. tablet) and small screen (e.g. cell phone).
