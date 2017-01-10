@@ -11,7 +11,6 @@ To set up a Bootstrap web page template follow the steps below.
  * https://youtu.be/gqOEoUR5RHg (1hr video tutorial..., yes you need to watch the whole video)
 
 3. Create a new public repository by clicking on the green ```New Repository``` button on your GitHub landing page. Your new repository has to be named ```your-user-name.github.io``` where you replace ```you-user-name``` with your GitHub user name, for example GitHub user Tony-Stark-CS would name his repository ```Tony-Stark-CS.github.io```. It is very important that your repository is named exactly this way or it will not work. Note that you are __not__ forking this repository or accepting an assignment repository for this assignment..., instead, you are creating and setting up you own repository on GitHub.
-
 ![](Untitled.png)
 
 4. In the next few steps you will download the Bootstrap framwork and add it your new repository. Go to http://http://getbootstrap.com/getting-started/#download and click o the [Download Bootstrap](https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip) button.
