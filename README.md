@@ -10,7 +10,7 @@ To set up a Bootstrap web page template follow the steps below.
  * https://youtu.be/DX-LoNaUr6w
  * https://youtu.be/gqOEoUR5RHg (1hr video tutorial..., yes you need to watch the whole video)
 
-3. Create a new public repository by clicking on the green ```New Repository``` button on your GitHub landing page. Your new repository has to be named ```your-user-name.github.io``` where you replace ```you-user-name``` with your GitHub user name, for example GitHub user Tony-Stark-CS would name his repository ```Tony-Stark-CS.github.io```. Note that you are __not__ forking this repository or accepting an assignment repository for this assignment..., instead, you are creating and settign up you own repository on GitHub.
+3. Create a new public repository by clicking on the green ```New Repository``` button on your GitHub landing page. Your new repository has to be named ```your-user-name.github.io``` where you replace ```you-user-name``` with your GitHub user name, for example GitHub user Tony-Stark-CS would name his repository ```Tony-Stark-CS.github.io```. It is very important that your repository is named exactly this way or it will not be working. Note that you are __not__ forking this repository or accepting an assignment repository for this assignment..., instead, you are creating and settign up you own repository on GitHub.
 
 ![](Untitled.png)
 
