@@ -1,5 +1,5 @@
 # CSE1210-assignment-2
-In this assignment you will be creating a multi-site responsive web site hosted on GitHub using the [Bootstrap framework](http://getbootstrap.com/). To get full marks for the various components it is important that you follow the instructions. To complete this assignment you must have completed the CodeAcademy [HTML & CSS](https://www.codecademy.com/learn/web) and [Learn HTML & CSS](https://www.codecademy.com/learn/learn-html-css) classes.
+In this assignment you will be creating a multi-site [responsive web site](https://en.wikipedia.org/wiki/Responsive_web_design) hosted on GitHub using the [Bootstrap framework](http://getbootstrap.com/). To get full marks for the various components it is important that you follow the instructions. To complete this assignment you must have completed the CodeAcademy [HTML & CSS](https://www.codecademy.com/learn/web) and [Learn HTML & CSS](https://www.codecademy.com/learn/learn-html-css) classes.
 
 ## Set up Bootstrap
 To set up a Bootstrap web page template follow the steps below.
