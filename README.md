@@ -5,11 +5,12 @@ In this assignment you will be creating a multi-site responsive web site hosted 
 1. Before starting make sure you have finished the CodeAcademy [HTML & CSS](https://www.codecademy.com/learn/web) and [Learn HTML & CSS](https://www.codecademy.com/learn/learn-html-css) classes.
 
 2. Familiarize yourself with Bootstrap and responsive web sites by watching the following videos:
-* https://youtu.be/DX-LoNaUr6w
-* https://youtu.be/gqOEoUR5RHg (1hr video tutorial..., yes you need to watch the whole video)
+ * https://youtu.be/DX-LoNaUr6w
+ * https://youtu.be/gqOEoUR5RHg (1hr video tutorial..., yes you need to watch the whole video)
 
 3. Create a new public repository by clicking on the green ```New Repository``` button on your GitHub landing page. 
 ![](Untitled.png)
+
 Your new repository has to be named ```your-user-name.github.io``` where you replace ```you-user-name``` with your GitHub user name, for example GitHub user Tony-Stark-CS would name his repository ```Tony-Stark-CS.github.io```. Note that you are __not__ forking this repository or accepting an assignment repository for this assignment..., instead, you are creating and settign up you own repository on GitHub.
 
 4. In the next few steps you will download the Bootstrap framwork and add it your new repository. Go to http://http://getbootstrap.com/getting-started/#download and select the link button saying ```Download Bootstrap```.
