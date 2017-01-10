@@ -24,7 +24,7 @@ To set up a Bootstrap web page template follow the steps below.
 ![](screenshot.png)
 
 ## Creating a web page
-Now that you have your basic template for a web page you will add contents to it and format it using the Bootstrap framwork. For this part of the assignment you are required to do extensive online research to understand how the Bootstrap framework works. The main [Bootstrap web site](http://getbootstrap.com/) is a good starting point for information on the capabilities of the framwork and for code examples. 
+Now that you have your basic template for a web page you will add contents to it and format it using the Bootstrap framwork. For this part of the assignment you are required to do extensive online research to understand how the Bootstrap framework works. The main [Bootstrap web site](http://getbootstrap.com/) is the best resource for information on the capabilities of the framwork and for code examples. 
 
 Your website will be featuring a musician or music group of your choice and will consist of the following separate web pages:
  * ```index.html``` - landing page that will introduce the musician/group and link to the other pages.
