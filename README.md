@@ -21,6 +21,7 @@ To set up a Bootstrap web page template follow the steps below.
 ![](image-github.png)
 
 7. Your "web page" is now live (although there is not much on it yet). The URL for your web page is ```https://tony-stark-cs.github.io/index.html``` (where you replace ```tony-stark-cs``` with your own GitHub user name. Every time you update your webpage and commit (and sync/push if you work locally) the changes will be refelected on this web page (note that there may be a slight delay before the changes appear).
+![](screenshot.png)
 
 ## Creating a web page
 Now that you have your basic template for a web page you will add contents to it and format it using the Bootstrap framwork. For this part of the assignment you are required to do extensive online research to understand how the Bootstrap framework works. The main [Bootstrap web site](http://getbootstrap.com/) is a good starting point for information on the capabilities of the framwork and for code examples. 
