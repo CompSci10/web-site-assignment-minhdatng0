@@ -24,26 +24,29 @@ To set up a Bootstrap web page template follow the steps below.
 ![](screenshot.png)
 
 ## Creating a web page
-Now that you have your basic template for a web page you will add contents to it and format it using the Bootstrap framwork. For this part of the assignment you are required to do extensive online research to understand how the Bootstrap framework works. The main [Bootstrap web site](http://getbootstrap.com/) is the best resource for information on the capabilities of the framwork and for code examples. 
+Now that you have your basic template for a web page you will add contents to it and format it using HTML, CSS and the Bootstrap framwork. For this part of the assignment you are required to do extensive online research to understand the various components and features that are part of the Bootstrap framework and how to use them works. The main [Bootstrap web site](http://getbootstrap.com/) is the best resource for information on the capabilities of the framwork and for code examples. 
 
-Your website will be featuring a musician or music group of your choice and will consist of the following separate web pages:
- * ```index.html``` - landing page that will introduce the musician/group and link to the other pages.
- * ```history.html``` - subpage that will provide a brief professional history of the musician/group.
- * ```discography.html``` - a subpage listing all (or selected) albums.
- It is up to you to decide how you want to format the pages and what type of information to include. But your site has to include the following components to recieve a 50% mark:
-  * At least 5 embedded images of the musician/group/albums/etc (images have to be part of your repository)
-  * At least 5 links to other sites
-  * Include appropriate text relating to the musician/group
-  * Proper heading tags
-  * At least one ordered list and one unordered list
-  * Each page has to include a ```<hr>``` tag to separate the footer from the rest of the page
-  * The footer section has to include today's date, a "Created by ..." statement and a link to the hosting GitHub repository.
-  * The head-section of all the pages have to be properly formated, e.g. include the ```<title>``` tag giving the page title e.g. ```<title>Pink Floyd by Dr. P</title>```.
-  * Web page has to be attractive and properly formatted (in this assignment - looks matter!) and use proper English language (grammar and spelling).
+Your website will be featuring a musician or music group of your choice and will consist of the following three inter-linked web pages:
+* ```index.html``` - landing page that will introduce the musician/group and link to the other pages.
+* ```history.html``` - subpage that will provide a brief professional history of the musician/group.
+* ```discography.html``` - a subpage listing all (or selected) albums.
  
- To get a mark of >50% your site has to include all of the above + the following components:
- * Up to 60% - All of the above + modifications of the CSS style sheet (in the ```css`` folder), e.g. background color, link color, font, page dimensions etc.
- * Up to 70% - All of the above + [three column grid formatting](http://getbootstrap.com/css/#grid)
- * Up to 80% - All of the above + [Navbar](http://getbootstrap.com/components/#navbar) with appropriate links (e.g. to subpages)
- * Up to 90% - All of the above + a [carousel with images](http://getbootstrap.com/javascript/#carousel).
- * Up to 100% - All of the above + three levels of responsiveness, large screen (e.g. computer monitor), medium screen (e.g. tablet) and small screen (e.g. cell phone).
+It is up to you to decide how to format the pages and the type of information to include. To recieve a 50% your site has to include the following components:
+* At least ```index.html```, ```history.html``` and ```discography.html``` pages.
+* At least 5 embedded images of the musician/group/albums/etc (images have to be part of your repository).
+* At least 5 links to other sites.
+* Appropriate text relating to the musician/group.
+* Proper heading tags, ```<h1>```, ```<h2>```, etc.
+* At least one ordered list (```<ol>```) and one unordered list (```<ul>```).
+* Each page has to include a ```<hr>``` tag separating the footer from the rest of the page.
+* The footer section has to include today's date, a "Created by ..." statement and a link to the hosting GitHub repository.
+* The head-section of all the pages have to be properly formated, e.g. include the ```<title>``` tag giving the page title e.g. ```<title>Pink Floyd by Dr. P</title>```, etc.
+* Web site has to be attractive, properly formatted and sub pages have to have a consistent look and feel (in this assignment - looks matter!).
+* Use of proper English language (grammar and spelling).
+ 
+To get a mark of >50% your site has to include all of the above + the following components:
+* Up to 60% - All of the above + modifications of the CSS style sheet (in the ```css`` folder), e.g. background color, link color, font, page dimensions etc.
+* Up to 70% - All of the above + [three column grid formatting](http://getbootstrap.com/css/#grid)
+* Up to 80% - All of the above + [Navbar](http://getbootstrap.com/components/#navbar) with appropriate links (e.g. to subpages)
+* Up to 90% - All of the above + a [carousel with images](http://getbootstrap.com/javascript/#carousel).
+* Up to 100% - All of the above + three levels of responsiveness, large screen (e.g. computer monitor), medium screen (e.g. tablet) and small screen (e.g. cell phone).
