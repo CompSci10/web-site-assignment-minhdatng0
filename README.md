@@ -8,21 +8,21 @@ To set up a Bootstrap web page template follow the steps below.
  * https://youtu.be/DX-LoNaUr6w
  * https://youtu.be/gqOEoUR5RHg (1hr video tutorial..., It is recommende that you watch the whole video and then use if as a reference when you are working on your site - note the table of contents/links in the video discription)
 
-1. Create a new public repository by clicking on the green ```New Repository``` button on your GitHub landing page. Your new repository has to be named ```your-user-name.github.io``` where you replace ```you-user-name``` with your GitHub user name, for example GitHub user Tony-Stark-CS would name his repository ```Tony-Stark-CS.github.io```. It is very important that your repository is named exactly this way or it will not work. 
+2. Create a new public repository by clicking on the green ```New Repository``` button on your GitHub landing page. Your new repository has to be named ```your-user-name.github.io``` where you replace ```you-user-name``` with your GitHub user name, for example GitHub user Tony-Stark-CS would name his repository ```Tony-Stark-CS.github.io```. It is very important that your repository is named exactly this way or it will not work. 
 
 ![](Untitled.png)
 
-1. Clone your new repository to your computer using the desktop client (on Windows and OS X) or the git command line (on Raspberry Pi). 
+3. Clone the repository. 
 
-1. In the next few steps you will download the Bootstrap framwork and add it your new repository. Go to http://http://getbootstrap.com/getting-started/#download and click on the [Download Bootstrap](https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip) button.
+4. In the next few steps you will download the Bootstrap framwork and add it your new repository. Go to http://http://getbootstrap.com/getting-started/#download and click on the [Download Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/download/) button (you need to download the Compiled CSS and JS).
 
-1. Unzip the downloaded file. The unzipped file contains three folders ```css```, ```fonts```, and ```js```. Add all three folders (and their contents to your new GitHub repository to your cloned repository and commit and sync/push to GitHub.
+5. Unzip the downloaded file (using the unzip command on Linux). The unzipped file contains three folders ```css```, ```fonts```, and ```js```. Add all three folders (and their contents to your new GitHub repository to your cloned repository and commit and sync/push to GitHub.
 
-1. Go to http://getbootstrap.com/getting-started/#template, copy the HTML code for the Basic template and add it to a file named ```index.html```. Save the file to your new repository followed by commit and sync/push. Your GitHub repository should now look like this.
+6. Go to http://getbootstrap.com/getting-started/#template, copy the HTML code for the Basic template and add it to a file named ```index.html```. Save the file to your new repository followed by commit and sync/push. Your GitHub repository should now look like this.
 
 ![](image-github.png)
 
-1. Your "web page" is now live (although there is not much on it yet). The URL for your web page is ```https://tony-stark-cs.github.io/index.html``` (where you replace ```tony-stark-cs``` with your own GitHub user name. Every time you update your webpage and commit (and sync/push if you work locally) the changes will be reflected on this web page (note that there may be a slight delay before the changes appear).
+7. Your "web page" is now live (although there is not much on it yet). The URL for your web page is ```https://tony-stark-cs.github.io/index.html``` (where you replace ```tony-stark-cs``` with your own GitHub user name. Every time you update your webpage and commit (and sync/push if you work locally) the changes will be reflected on this web page (note that there may be a slight delay before the changes appear).
 
 ![](screenshot.png)
 
