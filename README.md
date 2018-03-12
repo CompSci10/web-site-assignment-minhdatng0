@@ -12,11 +12,11 @@ To set up a Bootstrap web page template follow the steps below.
 
 ![](Untitled.png)
 
-3. Clone the repository. 
+3. Clone the assignment to your Raspberry Pi. 
 
 4. In the next few steps you will download the Bootstrap framwork and add it your new repository. Go to http://http://getbootstrap.com/getting-started/#download and click on the [Download Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/download/) button (you need to download the Compiled CSS and JS).
 
-5. Unzip the downloaded file (using the unzip command on Linux). The unzipped file contains three folders ```css```, ```fonts```, and ```js```. Add all three folders (and their contents to your new GitHub repository to your cloned repository and commit and sync/push to GitHub.
+5. Unzip the downloaded file (using the unzip command on Linux). The unzipped file contains three folders ```css```, ```fonts```, and ```js```. Add all three folders (and their contents to your cloned repository, commit and push to the remote repository.
 
 6. Go to http://getbootstrap.com/getting-started/#template, copy the HTML code for the Basic template and add it to a file named ```index.html```. Save the file to your new repository followed by commit and sync/push. Your GitHub repository should now look like this.
 
