@@ -2,6 +2,8 @@
 In this assignment you will be creating a multi-site [responsive web site](https://en.wikipedia.org/wiki/Responsive_web_design) hosted on GitHub using the [Bootstrap framework](http://getbootstrap.com/). To get full marks for the various components it is important that you follow the instructions. 
 
 ## Set up Bootstrap
+Bootstrap is a free and open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. The first version of Bootstrap was released on january 31, 2012 and was developed by developers at twitter. Bootstrap is using git for sourcecontrol management and is [hosted at GitHub](https://github.com/twbs/bootstrap). To date there has been nearly 18000 commits by almost 1000 people contributing to the Bootstrap framework.
+
 To set up a Bootstrap web page template follow the steps below.
 
 1. Familiarize yourself with Bootstrap and responsive web sites by watching the following videos:
